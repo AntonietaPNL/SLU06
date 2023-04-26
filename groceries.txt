@@ -2,3 +2,4 @@ pet food
 vegetables
 fruits
 butter
+eggs
